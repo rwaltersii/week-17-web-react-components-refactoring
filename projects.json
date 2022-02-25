@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "Week 14 - 'To Do' App",
+      "description": "Interface for users to create a 'to do' list.",
+      "imageUrl": "../images/todo.jpg",
+      "githubLink": "https://github.com/rwaltersii/week_14_react_todo_app"
+    },
+
+    {
+      "title": "Week 15 - 'Zoo Fetch'",
+      "description": "Fetches images from a Zoo API",
+      "imageUrl": "../images/zoo.jpg",
+      "githubLink": "https://github.com/rwaltersii/Week-15-Fetch-Assignment"
+    },
+
+    {
+      "title": "Week 16 - 'Tic Tac Toe'",
+      "description": "Classic Tic Tac Toe game",
+      "imageUrl": "../images/tictactoe.png",
+      "githubLink": "https://github.com/rwaltersii/week-16-tic-tac-toe-refactoring"
+    }
+  ]
+}
